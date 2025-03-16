@@ -46,15 +46,15 @@ Recent Large Reasoning Models (LRMs) such as DeepSeek-R1 have demonstrated impre
 
 To advance multimodal reasoning, we introduce a future prediction task and its corresponding dataset. Predicting the future is a deeply desired ability, yet forecasting upcoming events from historical video data presents significant challenges for current Multi-modal Large Models (MLMs). Our task pushes these models to infer future events based on the first part of a video, with the second part serving as open-ended ground truth for evaluation.
 
-> **🤔 Why isn’t factual answering ideal for video reasoning?**  
+> **🤔 <ins>Why isn’t factual answering ideal for video reasoning?</ins>**  
 > Research indicates that reasoning models like DeepSeek R1 often “over-think”, which can lead to hallucinations. When applied to video data, similar pitfalls emerge if the model is restricted to answering straightforward factual questions. For instance, querying “Where is the cat in the video?” might prompt an overly extended reasoning process, inadvertently increasing the risk of hallucinated outputs.
 
-> **💡 Why is future prediction a compelling case for video reasoning?** <a id="why-video-prediction"></a>   
+> **💡 <ins>Why is future prediction a compelling case for video reasoning?</ins>** <a id="why-video-prediction"></a>   
 > Much like Doctor Strange’s foresight in `Avengers 3: Infinity War (2018)`, predicting the future demands reasoning over multiple potential outcomes. This challenge is analogous to techniques such as Monte Carlo tree search (MCTS), which systematically explores a wide array of possible scenarios. The inherent complexity of future prediction makes it a powerful task for evaluating and enhancing video reasoning capabilities.  
 >  
 > ![assets/example.png](assets/example.png)
 
-> **📽️ Video Future Prediction: A Self-Supervised Task for Multimodal Reasoning**  
+> **📽️ <ins>Video Future Prediction: A Self-Supervised Task for Multimodal Reasoning</ins>**  
 > This task is inherently Self-Supervised Learning (SSL). It leverages the inherent causal logic present in video data. By dividing videos into sequential segments, we create implicit labels that embody the natural flow of cause and effect—allowing models to learn from the logical progression of events *without* the need for manual annotations.  
 >  
 > Much like `Image Contrastive Learning`, which uses inherent data structures to construct labels and guide what a model should capture, `Video Future Prediction` is grounded in the philosophy that real-world events unfold through a chain of cause and effect. It drives the model to focus on the temporal and causal dimensions that underpin real-world scenarios, enhancing multimodal reasoning capabilities. By integrating visual cues, the model develops a holistic reasoning ability to more accurately predict and interpret the progression of complex events.  
