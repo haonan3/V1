@@ -21,11 +21,6 @@
 
 </div>
 
-
-**Authors:** Haonan Wang, Chao Du, Tianyu Pang  
-**GitHub:** [haonan3/V1](https://github.com/haonan3/V1)  
-**Dataset:** [V1-33K on Hugging Face](https://huggingface.co/datasets/haonan3/V1-33K)
-
 ---
 
 ## Table of Contents
