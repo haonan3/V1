@@ -148,21 +148,21 @@ The detailed processing pipeline:
 ## On-Going Work
 
 - **Dataset Scale-Up:**  
-  [] Incorporate multiple QA annotations per video.
+  [ ] Incorporate multiple QA annotations per video.
 
-  [] Release additional video reasoning data from varied sources.
+  [ ] Release additional video reasoning data from varied sources.
 
-  [] Curate data that demonstrably enhances reasoning (e.g., leveraging LIMO).
+  [ ] Curate data that demonstrably enhances reasoning (e.g., leveraging LIMO).
 
 - **Model Training:**  
-  [] Apply supervised fine-tuning (SFT) on long chain-of-thought (CoT) data.
+  [ ] Apply supervised fine-tuning (SFT) on long chain-of-thought (CoT) data.
 
-  [] Perform critique fine-tuning (CFT) to improve robustness.
+  [ ] Perform critique fine-tuning (CFT) to improve robustness.
 
-  [] Experiment with PPO and GRPO techniques to further boost video reasoning performance.
+  [ ] Experiment with PPO and GRPO techniques to further boost video reasoning performance.
 
 - **Benchmark Development:**  
-  [] Create a comprehensive Future Prediction Benchmark to evaluate multimodal reasoning models.
+  [ ] Create a comprehensive Future Prediction Benchmark to evaluate multimodal reasoning models.
 
 ---
 
