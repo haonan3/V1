@@ -30,8 +30,9 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
+- [Introduction](#multimodal-reasoning)
+- [Why Video Future Prediction?](#why-video-prediction)
+- [Dataset & Download](#dataset)
 - [Data Construction](#data-construction)
 - [On-Going Work](#on-going-work)
 - [Citation](#citation)
@@ -48,7 +49,7 @@ To advance multimodal reasoning, we introduce a future prediction task and its c
 > **🤔 Why isn’t factual answering ideal for video reasoning?**  
 > Research indicates that reasoning models like DeepSeek R1 often “over-think”, which can lead to hallucinations. When applied to video data, similar pitfalls emerge if the model is restricted to answering straightforward factual questions. For instance, querying “Where is the cat in the video?” might prompt an overly extended reasoning process, inadvertently increasing the risk of hallucinated outputs.
 
-> **💡 Why is future prediction a compelling case for video reasoning?**  
+> **💡 Why is future prediction a compelling case for video reasoning?** <a id="why-video-prediction"></a>   
 > Much like Doctor Strange’s foresight in `Avengers 3: Infinity War (2018)`, predicting the future demands reasoning over multiple potential outcomes. This challenge is analogous to techniques such as Monte Carlo tree search (MCTS), which systematically explores a wide array of possible scenarios. The inherent complexity of future prediction makes it a powerful task for evaluating and enhancing video reasoning capabilities.  
 >  
 > ![assets/example.png](assets/example.png)
