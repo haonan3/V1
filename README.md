@@ -1,6 +1,6 @@
 <div align="center">
 
-# V1: Toward Multimodal Reasoning by Designing Auxiliary Task
+# V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks
 
 
 <div>
