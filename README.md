@@ -168,9 +168,9 @@ If you find this work helpful, please consider citing:
 
 ```latex
 @misc{wang2025v1,
-      title={V1: Toward Multimodal Reasoning by Designing Auxiliary Task}, 
+      title={V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks}, 
       author={Haonan Wang, Chao Du, Tianyu Pang},
-      year={2025},If you find this blog or our dataset helpful, please consider citing:
-      url={https://faint-basin-c34.notion.site/1b2db15ae55b800da077e70aafe40212}, 
+      year={2025},
+      url={https://v1-videoreasoning.notion.site}, 
 }
 ```
