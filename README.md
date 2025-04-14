@@ -14,7 +14,7 @@
 
 [![Github](https://img.shields.io/badge/|V1-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/haonan3/V1)
 [![Notion](https://img.shields.io/badge/|Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://v1-videoreasoning.notion.site/) 
-[![Twitter](https://img.shields.io/badge/V1-white?style=for-the-badge&logo=X&logoColor=000&color=000&labelColor=white)]()
+[![Twitter](https://img.shields.io/badge/V1-white?style=for-the-badge&logo=X&logoColor=000&color=000&labelColor=white)](https://x.com/Haonan_Wang_/status/1901684827621072933)
 [![Hugging Face Collection](https://img.shields.io/badge/|_Dataset_V1_33K-fcd022?style=for-the-badge&logo=huggingface&logoColor=000&labelColor)](https://huggingface.co/datasets/haonan3/V1-33K)
 
 </div>
