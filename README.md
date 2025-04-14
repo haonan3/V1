@@ -13,7 +13,7 @@
 <div align="center">
 
 [![Github](https://img.shields.io/badge/|V1-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/haonan3/V1)
-[![Notion](https://img.shields.io/badge/|Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://faint-basin-c34.notion.site/V1-Toward-Multimodal-Reasoning-by-Designing-Auxiliary-Task-1b2db15ae55b800da077e70aafe40212) 
+[![Notion](https://img.shields.io/badge/|Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://v1-videoreasoning.notion.site/) 
 [![Twitter](https://img.shields.io/badge/V1-white?style=for-the-badge&logo=X&logoColor=000&color=000&labelColor=white)]()
 [![Hugging Face Collection](https://img.shields.io/badge/|_Dataset_V1_33K-fcd022?style=for-the-badge&logo=huggingface&logoColor=000&labelColor)](https://huggingface.co/datasets/haonan3/V1-33K)
 
